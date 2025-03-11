@@ -1,6 +1,6 @@
 [
   {
-    "walletAddress": "",
+    "walletAddress": "Nirmaljit",
     "userName": "0",
     "stakeAmount": 1000000,
     "timestamp": "2025-03-11_062438",
@@ -15,7 +15,7 @@
     "usdValue": 5714.285714285715
   },
   {
-    "walletAddress": "",
+    "walletAddress": "Veerpal",
     "userName": "1",
     "stakeAmount": 100000,
     "timestamp": "2025-03-11_062742",
@@ -73,50 +73,5 @@
     "dailyROI": 2000,
     "offerDescription": "",
     "usdValue": 571.4285714285714
-  },
-  {
-    "walletAddress": "gill",
-    "userName": "a",
-    "stakeAmount": 1000000,
-    "timestamp": "2025-03-11_072046",
-    "roiPercentage": 5,
-    "expiryFormatted": "2025-03-11_000000",
-    "referralCode": "REFee4c6",
-    "uplineReferralCode": "",
-    "stakeToken": "7f21ee67bb2f0ff4b167db71094a4cce2734b22f7a39cc68d14a61d0ee41972e2f74620afc8578ddfc65481f031eabf8c030316bc8fb7c62fae9feff96950868aa4ca9d32fee71e2d0e2f197ae0469fc",
-    "tokenHash": "9ceee977a67a2caef1b805a7e0442970e3feef12038de19a3a9755e74ad546b4",
-    "dailyROI": 50000,
-    "offerDescription": "",
-    "usdValue": 5714.285714285715
-  },
-  {
-    "walletAddress": "gill",
-    "userName": "a",
-    "stakeAmount": 1000000,
-    "timestamp": "2025-03-11_075305",
-    "roiPercentage": 5,
-    "expiryFormatted": "2025-03-12_000000",
-    "referralCode": "REF81521",
-    "uplineReferralCode": "",
-    "stakeToken": "1071458ec7e9cb6538ed3537ba82133f8b33ce268c6ee03681691b7289809f751f2d682974c1c70609ba97576f8bb3f8271fd4fe0a279ada2346a1f2f89c7882f4e3b1204ee79d91c5bf1146b13480ee",
-    "tokenHash": "3a455a4e1ae03c9c9ed429afc0431ed290da54c13131623f0c07be75c907d559",
-    "dailyROI": 50000,
-    "offerDescription": "",
-    "usdValue": 5714.285714285715
-  },
-  {
-    "walletAddress": "gill",
-    "userName": "a",
-    "stakeAmount": 1000000,
-    "timestamp": "2025-03-11_075305",
-    "roiPercentage": 5,
-    "expiryFormatted": "2025-03-12_000000",
-    "referralCode": "REF81521",
-    "uplineReferralCode": "",
-    "stakeToken": "1071458ec7e9cb6538ed3537ba82133f8b33ce268c6ee03681691b7289809f751f2d682974c1c70609ba97576f8bb3f8271fd4fe0a279ada2346a1f2f89c7882f4e3b1204ee79d91c5bf1146b13480ee",
-    "tokenHash": "3a455a4e1ae03c9c9ed429afc0431ed290da54c13131623f0c07be75c907d559",
-    "dailyROI": 50000,
-    "offerDescription": "",
-    "usdValue": 5714.285714285715
   }
 ]
