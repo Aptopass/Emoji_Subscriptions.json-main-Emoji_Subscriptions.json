@@ -38,5 +38,166 @@
     "referralCode": "REFe4362",
     "uplineReferralCode": "REF245b2",
     "dailyROI": 5200
+  },
+
+  {
+    "walletAddress": "0xA1B2C3D4E5F6",
+    "userName": "John",
+    "stakeAmount": 10500,
+    "referralCode": "REF1234A",
+    "uplineReferralCode": "",
+    "dailyROI": 525
+  },
+  {
+    "walletAddress": "0xB2C3D4E5F6A1",
+    "userName": "Alice",
+    "stakeAmount": 25000,
+    "referralCode": "REF5678B",
+    "uplineReferralCode": "REF1234A",
+    "dailyROI": 1250
+  },
+  {
+    "walletAddress": "0xC3D4E5F6A1B2",
+    "userName": "David",
+    "stakeAmount": 32000,
+    "referralCode": "REF9101C",
+    "uplineReferralCode": "REF5678B",
+    "dailyROI": 1600
+  },
+  {
+    "walletAddress": "0xD4E5F6A1B2C3",
+    "userName": "Sophia",
+    "stakeAmount": 41000,
+    "referralCode": "REF2345D",
+    "uplineReferralCode": "REF9101C",
+    "dailyROI": 2050
+  },
+  {
+    "walletAddress": "0xE5F6A1B2C3D4",
+    "userName": "Michael",
+    "stakeAmount": 50000,
+    "referralCode": "REF6789E",
+    "uplineReferralCode": "REF2345D",
+    "dailyROI": 2500
+  },
+  {
+    "walletAddress": "0xF6A1B2C3D4E5",
+    "userName": "Emma",
+    "stakeAmount": 60000,
+    "referralCode": "REF9012F",
+    "uplineReferralCode": "REF6789E",
+    "dailyROI": 3000
+  },
+  {
+    "walletAddress": "0xA2B3C4D5E6F7",
+    "userName": "James",
+    "stakeAmount": 75000,
+    "referralCode": "REF3456G",
+    "uplineReferralCode": "REF9012F",
+    "dailyROI": 3750
+  },
+  {
+    "walletAddress": "0xB3C4D5E6F7A2",
+    "userName": "Olivia",
+    "stakeAmount": 88000,
+    "referralCode": "REF7890H",
+    "uplineReferralCode": "REF3456G",
+    "dailyROI": 4400
+  },
+  {
+    "walletAddress": "0xC4D5E6F7A2B3",
+    "userName": "Liam",
+    "stakeAmount": 97000,
+    "referralCode": "REF1122I",
+    "uplineReferralCode": "REF7890H",
+    "dailyROI": 4850
+  },
+  {
+    "walletAddress": "0xD5E6F7A2B3C4",
+    "userName": "Isabella",
+    "stakeAmount": 108000,
+    "referralCode": "REF3344J",
+    "uplineReferralCode": "REF1122I",
+    "dailyROI": 5400
+  },
+  {
+    "walletAddress": "0xE6F7A2B3C4D5",
+    "userName": "William",
+    "stakeAmount": 120000,
+    "referralCode": "REF5566K",
+    "uplineReferralCode": "REF3344J",
+    "dailyROI": 6000
+  },
+  {
+    "walletAddress": "0xF7A2B3C4D5E6",
+    "userName": "Sophia",
+    "stakeAmount": 132500,
+    "referralCode": "REF7788L",
+    "uplineReferralCode": "REF5566K",
+    "dailyROI": 6625
+  },
+  {
+    "walletAddress": "0xA3B4C5D6E7F8",
+    "userName": "Ethan",
+    "stakeAmount": 145000,
+    "referralCode": "REF9900M",
+    "uplineReferralCode": "REF7788L",
+    "dailyROI": 7250
+  },
+  {
+    "walletAddress": "0xB4C5D6E7F8A3",
+    "userName": "Charlotte",
+    "stakeAmount": 157500,
+    "referralCode": "REF2233N",
+    "uplineReferralCode": "REF9900M",
+    "dailyROI": 7875
+  },
+  {
+    "walletAddress": "0xC5D6E7F8A3B4",
+    "userName": "Benjamin",
+    "stakeAmount": 170000,
+    "referralCode": "REF4455O",
+    "uplineReferralCode": "REF2233N",
+    "dailyROI": 8500
+  },
+  {
+    "walletAddress": "0xD6E7F8A3B4C5",
+    "userName": "Amelia",
+    "stakeAmount": 182500,
+    "referralCode": "REF6677P",
+    "uplineReferralCode": "REF4455O",
+    "dailyROI": 9125
+  },
+  {
+    "walletAddress": "0xE7F8A3B4C5D6",
+    "userName": "Alexander",
+    "stakeAmount": 195000,
+    "referralCode": "REF8899Q",
+    "uplineReferralCode": "REF6677P",
+    "dailyROI": 9750
+  },
+  {
+    "walletAddress": "0xF8A3B4C5D6E7",
+    "userName": "Mia",
+    "stakeAmount": 207500,
+    "referralCode": "REF0011R",
+    "uplineReferralCode": "REF8899Q",
+    "dailyROI": 10375
+  },
+  {
+    "walletAddress": "0xA4B5C6D7E8F9",
+    "userName": "Lucas",
+    "stakeAmount": 220000,
+    "referralCode": "REF2233S",
+    "uplineReferralCode": "REF0011R",
+    "dailyROI": 11000
+  },
+  {
+    "walletAddress": "0xB5C6D7E8F9A4",
+    "userName": "Harper",
+    "stakeAmount": 232500,
+    "referralCode": "REF4455T",
+    "uplineReferralCode": "REF2233S",
+    "dailyROI": 11625
   }
 ]
