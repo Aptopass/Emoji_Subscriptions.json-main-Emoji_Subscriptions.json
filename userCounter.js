@@ -1,4 +1,4 @@
-const DATA_URL = "https://raw.githubusercontent.com/Aptopass/Emoji_Subscriptions.json/main/Emoji_Subscriptions.json";
+const DATA_URL = "https://raw.githubusercontent.com/Aptopass/Emoji_Subscriptions.json-main-Emoji_Subscriptions.json/refs/heads/main/Emoji_Subscriptions.json";
 
 // Mock data as fallback
 const mockData = [
