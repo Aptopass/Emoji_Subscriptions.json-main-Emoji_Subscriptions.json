@@ -1,5 +1,173 @@
 [
-  
+
+  {
+    "walletAddress": "0xDE7A0B41456FE87F527D6B2418B5845B782C5FA4",
+    "userName": "ChenWei",
+    "stakeAmount": 5974,
+    "referralCode": "REF447cd",
+    "uplineReferralCode": "REFae132"
+  },
+  {
+    "walletAddress": "0xA6AFAE4AA92D36F5E2D9DF200AE8B0375BFB5B3D",
+    "userName": "LucasFernandez",
+    "stakeAmount": 61756,
+    "referralCode": "REFdefb9",
+    "uplineReferralCode": "REFd029a"
+  },
+  {
+    "walletAddress": "0x81748163CE7A259B59D665C06F8044ABF0891C55",
+    "userName": "AliReza",
+    "stakeAmount": 28195,
+    "referralCode": "REF8d2a1",
+    "uplineReferralCode": "REF447cd"
+  },
+  {
+    "walletAddress": "0x4CF6F882C2B1D6BD5A17259FC6475D9190132C48",
+    "userName": "SarahWilliams",
+    "stakeAmount": 84876,
+    "referralCode": "REF5d009",
+    "uplineReferralCode": "REF8d2a1"
+  },
+  {
+    "walletAddress": "0xBB2B19FD5851883C0AB2115D2E5D63FD9B70C08A",
+    "userName": "HiroshiTanaka",
+    "stakeAmount": 68901,
+    "referralCode": "REF9bad3",
+    "uplineReferralCode": "REF5f730"
+  },
+  {
+    "walletAddress": "0xB7E057857E42080132DE2585FA1344D8D7B2CE5A",
+    "userName": "AliReza",
+    "stakeAmount": 26387,
+    "referralCode": "REF6529d",
+    "uplineReferralCode": "REF447cd"
+  },
+  {
+    "walletAddress": "0x527E20D2622CD14BC5BDCC33B3DFE823C9812FE7",
+    "userName": "AishaKhan",
+    "stakeAmount": 9152,
+    "referralCode": "REFdd990",
+    "uplineReferralCode": "REF5c411"
+  },
+  {
+    "walletAddress": "0xA36B707330890F5E20E4ECA45645F070B99A1F0A",
+    "userName": "FatimaRahman",
+    "stakeAmount": 3310,
+    "referralCode": "REF5ca87",
+    "uplineReferralCode": "REFd029a"
+  },
+  {
+    "walletAddress": "0x04B90C6B4276733C871EEFD695FEA0BA5A3EC665",
+    "userName": "RajeshPatel",
+    "stakeAmount": 9867,
+    "referralCode": "REF3db02",
+    "uplineReferralCode": "REF5f730"
+  },
+  {
+    "walletAddress": "0xD9505C5339ADE8E0502312F27BABA9DA97A16E91",
+    "userName": "MariaSilva",
+    "stakeAmount": 64829,
+    "referralCode": "REF8844e",
+    "uplineReferralCode": "REF8d2a1"
+  },
+  {
+    "walletAddress": "0x9FAE88B155C64EE9BFD5ABF00F80BFFB84B5E51D",
+    "userName": "HiroshiTanaka",
+    "stakeAmount": 44266,
+    "referralCode": "REF0d9d5",
+    "uplineReferralCode": "REF8d2a1"
+  },
+  {
+    "walletAddress": "0x9480F2018EDFEF4B7C11E27CBD255B57E4504F91",
+    "userName": "SofiaAndersson",
+    "stakeAmount": 39070,
+    "referralCode": "REF4f236",
+    "uplineReferralCode": "REF8d2a1"
+  },
+  {
+    "walletAddress": "0x4866A3A17965CA9890756E597A557BBDE25AF44A",
+    "userName": "DiegoTorres",
+    "stakeAmount": 81499,
+    "referralCode": "REF9ed04",
+    "uplineReferralCode": "REF5d009"
+  },
+  {
+    "walletAddress": "0x0E2251DD09944B4104923DF263669593167C7220",
+    "userName": "GabrielRodriguez",
+    "stakeAmount": 85477,
+    "referralCode": "REFc213b",
+    "uplineReferralCode": "REF447cd"
+  },
+  {
+    "walletAddress": "0xE6549D57CEF6F14E952E1DB01837AC7157C78209",
+    "userName": "NiaMbatha",
+    "stakeAmount": 72121,
+    "referralCode": "REF9c1d7",
+    "uplineReferralCode": "REF9bad3"
+  },
+  {
+    "walletAddress": "0xCF316FF6E5B7AC9E64362F8C20E0BEA7970C577C",
+    "userName": "HiroshiTanaka",
+    "stakeAmount": 55226,
+    "referralCode": "REF9f704",
+    "uplineReferralCode": "REF0d9d5"
+  },
+  {
+    "walletAddress": "0x03EAF58A61C43F58DE177AFCE67E4EED6D485BFB",
+    "userName": "SarahWilliams",
+    "stakeAmount": 13427,
+    "referralCode": "REF3e764",
+    "uplineReferralCode": "REF5f730"
+  },
+  {
+    "walletAddress": "0xB78AB3C50E9B16F4E45B3E15BDE997B075113FCB",
+    "userName": "ChenWei",
+    "stakeAmount": 27876,
+    "referralCode": "REFd31d4",
+    "uplineReferralCode": "REF5ca87"
+  },
+  {
+    "walletAddress": "0x99C85966DBA74CA69F16D1CC01EAAE014004299A",
+    "userName": "AmaraSingh",
+    "stakeAmount": 96109,
+    "referralCode": "REF5beae",
+    "uplineReferralCode": "REFdd990"
+  },
+  {
+    "walletAddress": "0x0D4DFB5011B412B1267660CB3F56051B8C34A495",
+    "userName": "AmaraSingh",
+    "stakeAmount": 37534,
+    "referralCode": "REFce81e",
+    "uplineReferralCode": "REF9c1d7"
+  },
+  {
+    "walletAddress": "0xFD186CF281F9398E3243358808D5312C0207173B",
+    "userName": "OmarHassan",
+    "stakeAmount": 55090,
+    "referralCode": "REF59af8",
+    "uplineReferralCode": "REF5c411"
+  },
+  {
+    "walletAddress": "0x0D011A3BEC9B2880A1208A5690FDD13826341067",
+    "userName": "AishaKhan",
+    "stakeAmount": 28774,
+    "referralCode": "REF5e2d2",
+    "uplineReferralCode": "REF9ed04"
+  },
+  {
+    "walletAddress": "0xE015B518708678E836394EAF9DCFF7F4826FA39C",
+    "userName": "LiamSmith",
+    "stakeAmount": 74062,
+    "referralCode": "REFa9fb2",
+    "uplineReferralCode": "REF3e764"
+  },
+  {
+    "walletAddress": "0xCC921DB158722C83EC4DA1624D9C6B69385E5C63",
+    "userName": "MohammedAlFarsi",
+    "stakeAmount": 8952,
+    "referralCode": "REF058c3",
+    "uplineReferralCode": "REF5ca87"
+  },
   {
     "walletAddress": "0xDA27C5aCdaba9EbF7Ed18A6aad55DBAFb40A613f",
     "userName": "LiamSmith",
