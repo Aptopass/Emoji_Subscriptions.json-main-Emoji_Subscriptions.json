@@ -68,5 +68,140 @@
     "stakeAmount": 9200,
     "referralCode": "REFa742d",
     "uplineReferralCode": "REFb8d3f"
+  },
+
+  {
+    "walletAddress": "0xD23A89B7B32CB89BB4EA5673F04695B87ED11F9B9",
+    "userName": "AaravSharma",
+    "stakeAmount": 8600,
+    "referralCode": "REFd98f4",
+    "uplineReferralCode": "REFb8d3f"
+  },
+  {
+    "walletAddress": "0xA48F7CB7B32CB89BB4EA5673F04695B87ED11F9B9",
+    "userName": "ChenWei",
+    "stakeAmount": 7800,
+    "referralCode": "REFe31b7",
+    "uplineReferralCode": "REFe416d"
+  },
+  {
+    "walletAddress": "0xF89D2AB7B32CB89BB4EA5673F04695B87ED11F9B9",
+    "userName": "FatimaOmar",
+    "stakeAmount": 7300,
+    "referralCode": "REFc49a5",
+    "uplineReferralCode": "REFe416d"
+  },
+  {
+    "walletAddress": "0xB3A7E9B7B32CB89BB4EA5673F04695B87ED11F9B9",
+    "userName": "LukasSchmidt",
+    "stakeAmount": 6700,
+    "referralCode": "REFb27e9",
+    "uplineReferralCode": "REFd214b"
+  },
+  {
+    "walletAddress": "0xC56A93B7B32CB89BB4EA5673F04695B87ED11F9B9",
+    "userName": "NaomiKawasaki",
+    "stakeAmount": 6300,
+    "referralCode": "REFd63f2",
+    "uplineReferralCode": "REFd214b"
+  },
+  {
+    "walletAddress": "0xD98E4FB7B32CB89BB4EA5673F04695B87ED11F9B9",
+    "userName": "JoseMartinez",
+    "stakeAmount": 5900,
+    "referralCode": "REFe92a8",
+    "uplineReferralCode": "REFe78c3"
+  },
+  {
+    "walletAddress": "0xF4C7A2B7B32CB89BB4EA5673F04695B87ED11F9B9",
+    "userName": "KwameMensah",
+    "stakeAmount": 5600,
+    "referralCode": "REFa72d3",
+    "uplineReferralCode": "REFe78c3"
+  },
+  {
+    "walletAddress": "0xA76E1CB7B32CB89BB4EA5673F04695B87ED11F9B9",
+    "userName": "ElenaPetrov",
+    "stakeAmount": 5200,
+    "referralCode": "REFc84f5",
+    "uplineReferralCode": "REFb329e"
+  },
+  {
+    "walletAddress": "0xB87A9FB7B32CB89BB4EA5673F04695B87ED11F9B9",
+    "userName": "KofiAddo",
+    "stakeAmount": 4800,
+    "referralCode": "REFd31b8",
+    "uplineReferralCode": "REFb329e"
+  },
+  {
+    "walletAddress": "0xC49A2EB7B32CB89BB4EA5673F04695B87ED11F9B9",
+    "userName": "SophiaAlmeida",
+    "stakeAmount": 4500,
+    "referralCode": "REFa49f3",
+    "uplineReferralCode": "REFa742d"
+  },
+  {
+    "walletAddress": "0xD31B4FB7B32CB89BB4EA5673F04695B87ED11F9B9",
+    "userName": "FatoumataDiallo",
+    "stakeAmount": 4200,
+    "referralCode": "REFe94d6",
+    "uplineReferralCode": "REFa742d"
+  },
+  {
+    "walletAddress": "0xA91E3CB7B32CB89BB4EA5673F04695B87ED11F9B9",
+    "userName": "MohammedIbrahim",
+    "stakeAmount": 3900,
+    "referralCode": "REFd73b1",
+    "uplineReferralCode": "REFd98f4"
+  },
+  {
+    "walletAddress": "0xF98B7EB7B32CB89BB4EA5673F04695B87ED11F9B9",
+    "userName": "NataliaVasquez",
+    "stakeAmount": 3700,
+    "referralCode": "REFc21d9",
+    "uplineReferralCode": "REFd98f4"
+  },
+  {
+    "walletAddress": "0xB27A4FB7B32CB89BB4EA5673F04695B87ED11F9B9",
+    "userName": "RaviPatel",
+    "stakeAmount": 3500,
+    "referralCode": "REFb93e4",
+    "uplineReferralCode": "REFe31b7"
+  },
+  {
+    "walletAddress": "0xC12E9FB7B32CB89BB4EA5673F04695B87ED11F9B9",
+    "userName": "ZainabKhan",
+    "stakeAmount": 3200,
+    "referralCode": "REFd42c7",
+    "uplineReferralCode": "REFe31b7"
+  },
+  {
+    "walletAddress": "0xD49B7CB7B32CB89BB4EA5673F04695B87ED11F9B9",
+    "userName": "HenrikAndersen",
+    "stakeAmount": 3000,
+    "referralCode": "REFe85d2",
+    "uplineReferralCode": "REFc49a5"
+  },
+  {
+    "walletAddress": "0xE37C1AB7B32CB89BB4EA5673F04695B87ED11F9B9",
+    "userName": "AmaraOkafor",
+    "stakeAmount": 2800,
+    "referralCode": "REFd39e1",
+    "uplineReferralCode": "REFc49a5"
+  },
+  {
+    "walletAddress": "0xF28A7EB7B32CB89BB4EA5673F04695B87ED11F9B9",
+    "userName": "MingHuang",
+    "stakeAmount": 2500,
+    "referralCode": "REFa92c5",
+    "uplineReferralCode": "REFb27e9"
+  },
+  {
+    "walletAddress": "0xA39E2FB7B32CB89BB4EA5673F04695B87ED11F9B9",
+    "userName": "EmmaDubois",
+    "stakeAmount": 2300,
+    "referralCode": "REFe64b7",
+    "uplineReferralCode": "REFb27e9"
   }
 ]
+
