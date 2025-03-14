@@ -1,4 +1,5 @@
-[{'walletAddress': '0x8f2BecA3706A90BeA534Fb58A6d418e918326a00',
+[
+  {'walletAddress': '0x8f2BecA3706A90BeA534Fb58A6d418e918326a00',
   'userName': 'User1',
   'stakeAmount': 47331,
   'referralCode': 'REF9893B',
@@ -297,4 +298,5 @@
   'stakeAmount': 36814,
   'referralCode': 'REF1933Y',
   'uplineReferralCode': 'REF7607D',
-  'dailyROI': 1840.7}]
+  'dailyROI': 1840.7}
+]
