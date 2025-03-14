@@ -1,77 +1,72 @@
 [
   {
-    "walletAddress": "A",
-    "userName": "1",
-    "stakeAmount": 10000,
-    "timestamp": "2025-03-11_120431",
-    "roiPercentage": 5,
-    "expiryFormatted": "2025-03-12_000000",
-    "referralCode": "REF245b2",
-    "uplineReferralCode": "",
-    "stakeToken": "de513c0be6bb098d285a13fd35637db4e54bd6616874765bfff95764142e59c79f009d0d127f7aace9a987cde3f318a99d14fbaba79641dda680740d4ff71b526db2895dc6e2fba6acc022cd910ef16f",
-    "tokenHash": "7630d294b901200c8d34d8d05e2448eb3a9ed8a1de81acafa982a6811cd679a2",
-    "dailyROI": 500,
-    "offerDescription": "",
-    "usdValue": 57.142857142857146
+    "walletAddress": "0xa1b2c3d4e5f67890123456789abcdef123456789",
+    "userName": "Alice Brown",
+    "stakeAmount": 92000,
+    "referralCode": "REFa1b2c",
+    "uplineReferralCode": "REFx9y8z7"
   },
   {
-    "walletAddress": "B",
-    "userName": "2",
-    "stakeAmount": 110000,
-    "timestamp": "2025-03-11_120528",
-    "roiPercentage": 4,
-    "expiryFormatted": "2025-03-12_000000",
-    "referralCode": "REFeb86d",
-    "uplineReferralCode": "REF245b2",
-    "stakeToken": "363b7ecbaa57133a7cdbbacb57d2487b3870f4c916749f193d971dbc9407bbd08ec8f619d8f4561670870cafcaeb50292358fe6f67e1c8d6a25390c672c27408abca1a5db8759929868ce6f13cf387b356f34649341a950f134530bb286ab81c",
-    "tokenHash": "6254f10a5767b601ff5d7545d0571f7dcae0e5112b65f1235b251f79fb40fc7a",
-    "dailyROI": 4400,
-    "offerDescription": "",
-    "usdValue": 628.5714285714286
+    "walletAddress": "0xb2c3d4e5f67890123456789abcdef123456789a",
+    "userName": "Bob Smith",
+    "stakeAmount": 85000,
+    "referralCode": "REFb3c4d5",
+    "uplineReferralCode": "REFa1b2c"
   },
   {
-    "walletAddress": "C",
-    "userName": "2",
-    "stakeAmount": 110000,
-    "timestamp": "2025-03-11_120705",
-    "roiPercentage": 4,
-    "expiryFormatted": "2025-03-12_000000",
-    "referralCode": "REF11ddf",
-    "uplineReferralCode": "REF245b2",
-    "stakeToken": "d929ecc7a35b2c41af81e799b94101e8f64aa96e912fd908b6e361587b0769aed4d8bb16bddae9ee0e60b488ccf497d6b14f03b7f09f7ac5665a14ed97cac31ca7ff8e4a372b464ec8b66b15134404dd08519e0bf42cb48e2c3a965f4c1f7917",
-    "tokenHash": "3628fac7f5bd428ba69d8ea39d90aca7d5c55d3e2e34af62af204e525d132a1d",
-    "dailyROI": 4400,
-    "offerDescription": "",
-    "usdValue": 628.5714285714286
+    "walletAddress": "0xc3d4e5f67890123456789abcdef123456789ab",
+    "userName": "Charlie Johnson",
+    "stakeAmount": 78000,
+    "referralCode": "REFc4d5e6",
+    "uplineReferralCode": "REFb3c4d5"
   },
   {
-    "walletAddress": "D",
-    "userName": "3",
-    "stakeAmount": 120000,
-    "timestamp": "2025-03-11_120756",
-    "roiPercentage": 4,
-    "expiryFormatted": "2025-03-12_000000",
-    "referralCode": "REF7b0ec",
-    "uplineReferralCode": "REF245b2",
-    "stakeToken": "a0813fdd52b51c871db53374ee9b9b5de0889a25f9e84ca961bf24a2054521c30f766d572a5df0664f6bd7e4580ec75be1dbdf9bc3593f33636898fa0fffee920fbeda2d757d45956093b44d1b4908c35dcc3cdcc1187953db1db60da6f5e13c",
-    "tokenHash": "a18b92cb3b8b65c48f6f4aee6290481050350fd607e7c00b491bbde925309780",
-    "dailyROI": 4800,
-    "offerDescription": "",
-    "usdValue": 685.7142857142857
+    "walletAddress": "0xd4e5f67890123456789abcdef123456789abc",
+    "userName": "David Williams",
+    "stakeAmount": 71000,
+    "referralCode": "REFd5e6f7",
+    "uplineReferralCode": "REFc4d5e6"
   },
   {
-    "walletAddress": "E",
-    "userName": "3",
-    "stakeAmount": 130000,
-    "timestamp": "2025-03-11_120854",
-    "roiPercentage": 4,
-    "expiryFormatted": "2025-03-12_000000",
-    "referralCode": "REFe4362",
-    "uplineReferralCode": "REF245b2",
-    "stakeToken": "3e89470281f583e556108113c5b100e3ac11b4b18ad17e35a7c4484311a5fdb8433cafca535929eb6f3ad5048ada63af8bb9d89000cf54db07c9210e8c741ab28b4f436505af87e82ca7dee6e28158cb70690c2a807ce50d8da9ca02d4c4292a",
-    "tokenHash": "4ea20b56996c67cdf29ca31f58f4b358141db1e9abec2d5375749733655a8bda",
-    "dailyROI": 5200,
-    "offerDescription": "",
-    "usdValue": 742.8571428571429
+    "walletAddress": "0xe5f67890123456789abcdef123456789abcd",
+    "userName": "Emily Davis",
+    "stakeAmount": 89000,
+    "referralCode": "REFe6f7g8",
+    "uplineReferralCode": "REFd5e6f7"
+  },
+  {
+    "walletAddress": "0xf67890123456789abcdef123456789abcde",
+    "userName": "Frank Miller",
+    "stakeAmount": 76500,
+    "referralCode": "REFf7g8h9",
+    "uplineReferralCode": "REFe6f7g8"
+  },
+  {
+    "walletAddress": "0x67890123456789abcdef123456789abcdef",
+    "userName": "Grace Moore",
+    "stakeAmount": 80000,
+    "referralCode": "REFg8h9i0",
+    "uplineReferralCode": "REFf7g8h9"
+  },
+  {
+    "walletAddress": "0x7890123456789abcdef123456789abcdef1",
+    "userName": "Henry White",
+    "stakeAmount": 95000,
+    "referralCode": "REFh9i0j1",
+    "uplineReferralCode": "REFg8h9i0"
+  },
+  {
+    "walletAddress": "0x890123456789abcdef123456789abcdef12",
+    "userName": "Ivy Black",
+    "stakeAmount": 67000,
+    "referralCode": "REFi0j1k2",
+    "uplineReferralCode": "REFh9i0j1"
+  },
+  {
+    "walletAddress": "0x90123456789abcdef123456789abcdef123",
+    "userName": "Jack Green",
+    "stakeAmount": 72000,
+    "referralCode": "REFj1k2l3",
+    "uplineReferralCode": "REFi0j1k2"
   }
 ]
