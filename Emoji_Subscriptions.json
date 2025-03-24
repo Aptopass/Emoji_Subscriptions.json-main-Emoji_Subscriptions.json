@@ -1,26 +1,5 @@
 [
   {
-    "walletAddress": "0x2dB64Eb7cCd47F0d38eDF1aB960AdA7E626f2E1C",
-    "userName": "AmaraPatel",
-    "stakeAmount": 49165,
-    "referralCode": "REFa6a77",
-    "uplineReferralCode": "REF4bfaa"
-  },
-  {
-    "walletAddress": "0xcBf5A918FDEAFD6478008E11CBcCD8e833DfE61C",
-    "userName": "MiaLopez",
-    "stakeAmount": 43788,
-    "referralCode": "REF8bdec",
-    "uplineReferralCode": "REFa6a77"
-  },
-  {
-    "walletAddress": "0x29502e199Bc778e08a9fAdDaf5DDD78FaCcac107",
-    "userName": "RicardoGonzalez",
-    "stakeAmount": 29412,
-    "referralCode": "REF84c6b",
-    "uplineReferralCode": "REF8bdec"
-  },
-  {
     "walletAddress": "0xF43Ed81Dd11D8A8C8A1eb027E0fEfafFb0dD29A5",
     "userName": "ArjunSingh",
     "stakeAmount": 22055,
