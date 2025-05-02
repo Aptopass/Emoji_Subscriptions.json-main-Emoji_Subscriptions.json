@@ -11,8 +11,7 @@
     "userName": "Gurmeetsingh",
     "stakeAmount": 21000,
     "referralCode": "LTAE9O",
-    "uplineReferralCode": "REF02423",
-    "stakeToken": "TEST02"
+    "uplineReferralCode": "REF02423"
   },
   {
     "walletAddress": "H6NWGDZGV9AA",
@@ -33,8 +32,7 @@
     "userName": "SureshPatel",
     "stakeAmount": 21000,
     "referralCode": "REF1bf74",
-    "uplineReferralCode": "REF01a7b",
-    "stakeToken": "TEST01"
+    "uplineReferralCode": "REF01a7b"
   },
   {
     "walletAddress": "YSY0KZXP0WRT",
@@ -42,7 +40,6 @@
     "stakeAmount": 21000,
     "referralCode": "REF01a7b",
     "uplineReferralCode": "REFfdc5a"
-    "stakeToken": "0DZIOX"
   },
   {
     "walletAddress": "766D7ODPN92I",
