@@ -60,9 +60,11 @@
   {
     "walletAddress": "145Z7PZFGXL8",
     "userName": "Shwetabhagria",
+    "password": "Pass1234",
     "stakeAmount": 21000,
     "referralCode": "REF40662",
-    "uplineReferralCode": "REF01a7b"
+    "uplineReferralCode": "REF01a7b",
+    "stakeToken": "KUV62M"
   },
   {
     "walletAddress": "GCZ0LWL8HYA8",
