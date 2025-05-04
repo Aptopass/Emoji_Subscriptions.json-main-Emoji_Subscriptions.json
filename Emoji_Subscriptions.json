@@ -2,23 +2,29 @@
   {
     "walletAddress": "XXMTNA234Y6G",
     "userName": "Ritu",
+    "password": "Pass1234",
     "stakeAmount": 21000,
     "referralCode": "REF02423",
-    "uplineReferralCode": "REFdc5a"
+    "uplineReferralCode": "REFdc5a",
+    "stakeToken": "X7K9P2" 
   },
   {
     "walletAddress": "BPDTKEK352GG",
     "userName": "Gurmeetsingh",
+    "password": "Pass1234",
     "stakeAmount": 21000,
     "referralCode": "LTAE9O",
     "uplineReferralCode": "REF02423"
+    "stakeToken": "LTAE9O"
   },
   {
     "walletAddress": "H6NWGDZGV9AA",
     "userName": "Rajindersingh",
+    "password": "Pass1234",
     "stakeAmount": 10500,
     "referralCode": "REF9d3e9",
-    "uplineReferralCode": "LTAE9O"
+    "uplineReferralCode": "LTAE9O",
+    "stakeToken": "QTRWDY"
   },
   {
     "walletAddress": "9ZSF0DTRAGMZ",
@@ -46,16 +52,20 @@
   {
     "walletAddress": "766D7ODPN92I",
     "userName": "Lalitbhagria",
+    "password": "Pass1234",
     "stakeAmount": 21000,
     "referralCode": "REFff540",
-    "uplineReferralCode": "REF01a7b"
+    "uplineReferralCode": "REF01a7b",
+    "stakeToken": "EV22SF"
   },
   {
     "walletAddress": "6DNNC4IAS3MP",
     "userName": "Anu",
+    "password": "Pass1234",
     "stakeAmount": 21000,
     "referralCode": "REF6fd3a",
-    "uplineReferralCode": "REF01a7b"
+    "uplineReferralCode": "REF01a7b",
+    "stakeToken": "MAG1N2"
   },
   {
     "walletAddress": "145Z7PZFGXL8",
@@ -69,9 +79,11 @@
   {
     "walletAddress": "GCZ0LWL8HYA8",
     "userName": "Pankajgarg",
+    "password": "Pass1234",
     "stakeAmount": 21000,
     "referralCode": "REF33641",
-    "uplineReferralCode": "REF01a7b"
+    "uplineReferralCode": "REF01a7b",
+    "stakeToken": "045KGH"
   },
   {
     "walletAddress": "0xeAcD67cDcfFbB3fa1964Cdf1C17Ad4bC3cD0a47A",
