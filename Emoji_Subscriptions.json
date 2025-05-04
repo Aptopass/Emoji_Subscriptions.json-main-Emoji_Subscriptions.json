@@ -37,9 +37,11 @@
   {
     "walletAddress": "YSY0KZXP0WRT",
     "userName": "Mohitkumar",
+    "password": "Pass1234",
     "stakeAmount": 21000,
     "referralCode": "REF01a7b",
-    "uplineReferralCode": "REFfdc5a"
+    "uplineReferralCode": "REFfdc5a",
+    "stakeToken": "0DZIOX"
   },
   {
     "walletAddress": "766D7ODPN92I",
