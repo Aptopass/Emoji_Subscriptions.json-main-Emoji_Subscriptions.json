@@ -121,11 +121,13 @@
     "uplineReferralCode": "REF6ef29"
   },
   {
-    "walletAddress": "0x97f5B292bF3AECFEcfdb4947eDA179A903Fab11e",
-    "userName": "Pardeep",
+    "walletAddress": "E99XNND4POB4",
+    "userName": "Gurdishkaur",
+    "password": "dishu22",
     "stakeAmount": 21000,
     "referralCode": "REFf8949",
     "uplineReferralCode": "LTAE9O"
+    "stakeToken":"4DA5C8"
   },
   {
     "walletAddress": "0x52e137284C0CCa31dAa6CCaf49EFafcD625c4053",
